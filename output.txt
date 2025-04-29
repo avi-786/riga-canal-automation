@@ -1,0 +1,181 @@
+
+📅 Day 1 — 02 Apr 2025
+Reservoir Level: 58.45%
+Inflow: 76.16 million m³/day
+Discharge: 259.20 million m³/day
+Reservoir Volume: 3446.08 million m³
+Flood-Demand Impact (1-best to 100-worst): 89
+Electricity Rating: 35/100 based on 58.45% reservoir level
+🧠 Q[5, 5] updated from 0.00 ➜ -1.38
+
+📅 Day 2 — 03 Apr 2025
+Reservoir Level: 57.00%
+Inflow: 45.82 million m³/day
+Discharge: 216.00 million m³/day
+Reservoir Volume: 3360.99 million m³
+Flood-Demand Impact (1-best to 100-worst): 94
+Electricity Rating: 30/100 based on 57.00% reservoir level
+🧠 Q[5, 4] updated from 0.00 ➜ -1.91
+
+📅 Day 3 — 04 Apr 2025
+Reservoir Level: 57.41%
+Inflow: 133.82 million m³/day
+Discharge: 86.40 million m³/day
+Reservoir Volume: 3384.70 million m³
+Flood-Demand Impact (1-best to 100-worst): 67
+Electricity Rating: 32/100 based on 57.41% reservoir level
+🧠 Q[5, 1] updated from 0.00 ➜ -1.45
+
+📅 Day 4 — 05 Apr 2025
+Reservoir Level: 55.39%
+Inflow: 107.37 million m³/day
+Discharge: 345.60 million m³/day
+Reservoir Volume: 3265.58 million m³
+Flood-Demand Impact (1-best to 100-worst): 99
+Electricity Rating: 26/100 based on 55.39% reservoir level
+🧠 Q[5, 7] updated from 0.00 ➜ -2.33
+
+📅 Day 5 — 06 Apr 2025
+Reservoir Level: 55.45%
+Inflow: 93.91 million m³/day
+Discharge: 86.40 million m³/day
+Reservoir Volume: 3269.33 million m³
+Flood-Demand Impact (1-best to 100-worst): 56
+Electricity Rating: 26/100 based on 55.45% reservoir level
+🧠 Q[4, 1] updated from 0.00 ➜ -1.79
+
+📅 Day 6 — 07 Apr 2025
+Reservoir Level: 55.58%
+Inflow: 59.04 million m³/day
+Discharge: 43.20 million m³/day
+Reservoir Volume: 3277.25 million m³
+Flood-Demand Impact (1-best to 100-worst): 34
+Electricity Rating: 26/100 based on 55.58% reservoir level
+🧠 Q[4, 0] updated from 0.00 ➜ -0.57
+
+📅 Day 7 — 08 Apr 2025
+Reservoir Level: 53.36%
+Inflow: 126.78 million m³/day
+Discharge: 388.80 million m³/day
+Reservoir Volume: 3146.24 million m³
+Flood-Demand Impact (1-best to 100-worst): 100
+Electricity Rating: 20/100 based on 53.36% reservoir level
+🧠 Q[5, 8] updated from 0.00 ➜ -2.93
+
+📅 Day 8 — 09 Apr 2025
+Reservoir Level: 54.42%
+Inflow: 167.74 million m³/day
+Discharge: 43.20 million m³/day
+Reservoir Volume: 3208.52 million m³
+Flood-Demand Impact (1-best to 100-worst): 34
+Electricity Rating: 23/100 based on 54.42% reservoir level
+🧠 Q[4, 0] updated from -0.57 ➜ -1.39
+
+📅 Day 9 — 10 Apr 2025
+Reservoir Level: 54.71%
+Inflow: 164.11 million m³/day
+Discharge: 129.60 million m³/day
+Reservoir Volume: 3225.77 million m³
+Flood-Demand Impact (1-best to 100-worst): 67
+Electricity Rating: 24/100 based on 54.71% reservoir level
+🧠 Q[4, 2] updated from 0.00 ➜ -2.25
+
+📅 Day 10 — 11 Apr 2025
+Reservoir Level: 54.45%
+Inflow: 141.87 million m³/day
+Discharge: 172.80 million m³/day
+Reservoir Volume: 3210.30 million m³
+Flood-Demand Impact (1-best to 100-worst): 78
+Electricity Rating: 23/100 based on 54.45% reservoir level
+🧠 Q[4, 3] updated from 0.00 ➜ -2.50
+
+🕵️ Shadow Mode — Day 1 — 01 Apr 2025
+Reservoir Level: 60.00%
+Your discharge decision (in million m³/s): 34
+Inflow: 111.18 million m³/day
+Reservoir Volume: 3571.59 million m³
+Flood-Demand Impact (1-best to 10-worst): 23
+Electricity Rating: 43/100 based on 60.58% reservoir level
+👤 Shadow Q[5, 0] updated from 0.00 ➜ 2.50
+
+🕵️ Shadow Mode — Day 2 — 02 Apr 2025
+Reservoir Level: 60.58%
+Your discharge decision (in million m³/s): 45
+Inflow: 127.64 million m³/day
+Reservoir Volume: 3613.81 million m³
+Flood-Demand Impact (1-best to 10-worst): 34
+Electricity Rating: 45/100 based on 61.29% reservoir level
+👤 Shadow Q[5, 0] updated from 2.50 ➜ 4.08
+
+🕵️ Shadow Mode — Day 3 — 03 Apr 2025
+Reservoir Level: 61.29%
+Your discharge decision (in million m³/s): 31
+Inflow: 69.90 million m³/day
+Reservoir Volume: 3627.16 million m³
+Flood-Demand Impact (1-best to 10-worst): 23
+Electricity Rating: 46/100 based on 61.52% reservoir level
+👤 Shadow Q[5, 0] updated from 4.08 ➜ 6.83
+
+🕵️ Shadow Mode — Day 4 — 04 Apr 2025
+Reservoir Level: 61.52%
+Your discharge decision (in million m³/s): 45
+Inflow: 72.08 million m³/day
+Reservoir Volume: 3641.60 million m³
+Flood-Demand Impact (1-best to 10-worst): 12
+Electricity Rating: 47/100 based on 61.76% reservoir level
+👤 Shadow Q[5, 0] updated from 6.83 ➜ 10.77
+
+🕵️ Shadow Mode — Day 5 — 05 Apr 2025
+Reservoir Level: 61.76%
+Your discharge decision (in million m³/s): 34
+Inflow: 105.12 million m³/day
+Reservoir Volume: 3672.56 million m³
+Flood-Demand Impact (1-best to 10-worst): 23
+Electricity Rating: 49/100 based on 62.29% reservoir level
+👤 Shadow Q[5, 0] updated from 10.77 ➜ 13.76
+
+🕵️ Shadow Mode — Day 6 — 06 Apr 2025
+Reservoir Level: 62.29%
+Your discharge decision (in million m³/s): 40
+Inflow: 48.95 million m³/day
+Reservoir Volume: 3675.44 million m³
+Flood-Demand Impact (1-best to 10-worst): 21
+Electricity Rating: 49/100 based on 62.34% reservoir level
+👤 Shadow Q[5, 0] updated from 13.76 ➜ 16.92
+
+🕵️ Shadow Mode — Day 7 — 07 Apr 2025
+Reservoir Level: 62.34%
+Your discharge decision (in million m³/s): 36
+Inflow: 169.10 million m³/day
+Reservoir Volume: 3738.39 million m³
+Flood-Demand Impact (1-best to 10-worst): 21
+Electricity Rating: 54/100 based on 63.41% reservoir level
+👤 Shadow Q[5, 0] updated from 16.92 ➜ 20.55
+
+🕵️ Shadow Mode — Day 8 — 08 Apr 2025
+Reservoir Level: 63.41%
+Your discharge decision (in million m³/s): 32
+Inflow: 93.79 million m³/day
+Reservoir Volume: 3763.68 million m³
+Flood-Demand Impact (1-best to 10-worst): 16
+Electricity Rating: 55/100 based on 63.83% reservoir level
+👤 Shadow Q[5, 0] updated from 20.55 ➜ 24.75
+
+🕵️ Shadow Mode — Day 9 — 09 Apr 2025
+Reservoir Level: 63.83%
+Your discharge decision (in million m³/s): 45
+Inflow: 43.35 million m³/day
+Reservoir Volume: 3763.75 million m³
+Flood-Demand Impact (1-best to 10-worst): 16
+Electricity Rating: 55/100 based on 63.84% reservoir level
+👤 Shadow Q[5, 0] updated from 24.75 ➜ 28.90
+
+🕵️ Shadow Mode — Day 10 — 10 Apr 2025
+Reservoir Level: 63.84%
+Your discharge decision (in million m³/s): 37
+Inflow: 132.76 million m³/day
+Reservoir Volume: 3808.53 million m³
+Flood-Demand Impact (1-best to 10-worst): 19
+Electricity Rating: 59/100 based on 64.60% reservoir level
+👤 Shadow Q[5, 0] updated from 28.90 ➜ 33.11
+
